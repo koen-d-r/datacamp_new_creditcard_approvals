@@ -1,1 +1,1 @@
-In this Datacamp project I tried predicting approvals and disapprovals for creditcard applications! 
+In this Datacamp project I predicted approvals and disapprovals for creditcard applications! 
